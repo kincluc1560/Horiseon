@@ -58,16 +58,6 @@ figure img {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 main {
     width: 75%;
     display: inline-block;
@@ -85,6 +75,16 @@ section {
 
 section img {
     max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 section h2 {
