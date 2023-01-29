@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* CSS styling for header and naviagtion menu */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* CSS styling for background image */
+
 figure img {
     height: 800px;
     width: 100%;
@@ -57,6 +61,8 @@ figure img {
     background-size: cover;
     background-position: center;
 }
+
+/* CSS styling for main articles on the center left of the page */
 
 main {
     width: 75%;
@@ -92,6 +98,8 @@ section h2 {
     font-size: 36px;
 }
 
+/* CSS styling for articles on the right of the page */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +126,8 @@ article img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* CSS styling for footer */
 
 footer {
     padding: 30px;
